@@ -37,6 +37,12 @@
   <a href="https://learn.microsoft.com/dotnet/csharp/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="38" alt="C#"/>
   </a>&nbsp;
+
+  <!-- ✅ ADDED: ADO.NET -->
+  <a href="https://learn.microsoft.com/dotnet/framework/data/adonet/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/microsoft/ffffff" height="38" alt="ADO.NET"/>
+  </a>&nbsp;
+
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="38" alt="Python"/>
   </a>&nbsp;
@@ -90,9 +96,12 @@
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="38" alt="Express"/>
   </a>&nbsp;
+
+  <!-- ✅ FIXED: NestJS icon (stable) -->
   <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="38" alt="NestJS"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="38" alt="NestJS"/>
   </a>&nbsp;
+
   <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="38" alt=".NET"/>
   </a>&nbsp;
@@ -119,7 +128,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="38" alt="PostgreSQL"/>
   </a>&nbsp;
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="38" alt="MySQL"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="38" alt="MySQL (SQL)"/>
   </a>&nbsp;
   <a href="https://www.microsoft.com/sql-server" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="38" alt="SQL Server"/>
