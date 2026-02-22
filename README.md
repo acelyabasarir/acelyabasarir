@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/a%C3%A7elya-ba%C5%9Far%C4%B1r-a5a664286/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="34" alt="LinkedIn" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="34" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
   <a href="https://medium.com/@acelyabasasir" target="_blank" rel="noreferrer">
