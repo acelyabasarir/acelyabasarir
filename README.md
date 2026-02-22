@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Açelya Başarır</h1>
 
 <p align="center">
-  <b>Bilgi Teknolojileri Uzmanı | Full Stack Developer | React, Node.js, .NET, Flutter | Web & Mobil Uygulamalar | RESTful API | Modern Yazılım Mimarileri</b>
+  <b>  Full Stack Developer </b>
 </p>
 
 <hr/>
@@ -40,8 +40,8 @@
 
   <!-- ✅ ADDED: ADO.NET -->
   <a href="https://learn.microsoft.com/dotnet/framework/data/adonet/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/microsoft/ffffff" height="38" alt="ADO.NET"/>
-  </a>&nbsp;
+  <img src="https://cdn.simpleicons.org/microsoft/ffffff" height="38" alt="ADO.NET"/>
+</a>&nbsp;
 
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="38" alt="Python"/>
